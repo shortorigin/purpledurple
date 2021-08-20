@@ -6,7 +6,7 @@
 
 Use this Git Repository to collaborate with me.
 
-You can start by downloading [Github Desktop]'https://central.github.com/deployments/desktop/desktop/latest/win32'
+You can start by downloading [Github Desktop](https://central.github.com/deployments/desktop/desktop/latest/win32)
 
 1. Things we need to get done.
     1. Install Github Desktop on your machine.
