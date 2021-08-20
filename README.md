@@ -16,4 +16,4 @@ You can start by downloading [Github Desktop](https://central.github.com/deploym
 
 ### Wiki
 
-- [Visit the Wiki!**](https://github.com/shortorigin/purpledurple/wiki/)
+- [Visit the Wiki!](https://github.com/shortorigin/purpledurple/wiki/)
