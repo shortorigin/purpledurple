@@ -1,6 +1,6 @@
 # Purple Durple
 
- Cody's Trading Journey
+ Cody's and Justin's Trading Journey
 
 ## We Can Journey Together with Git
 
