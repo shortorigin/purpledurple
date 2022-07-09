@@ -18,4 +18,6 @@ You can start by downloading [Github Desktop](https://central.github.com/deploym
 
 - [Visit the Wiki!](https://github.com/shortorigin/purpledurple/wiki/)
 
+![A plumbus](./assets/plumbus.png)
+
 Where is this going? https://github.com/shortorigin/purpledurple.wiki.git
