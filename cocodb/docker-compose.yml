@@ -19,8 +19,5 @@ services:
             - postgres
 
 volumes:
-    postgres:
+    pgdb-data:
     pgadmin:
-
-env_file: 
-    - .env
