@@ -1,0 +1,1 @@
+docker service create --replicas 1 --name helloworld alpine ping 100.113.193.27
