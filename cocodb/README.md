@@ -1,3 +1,4 @@
 # Notes
 
-1. 
+-[ ] Setup Git & Connect to GitHub
+-[ ] Learn GitHub workflow
